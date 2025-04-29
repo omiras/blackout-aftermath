@@ -34,7 +34,7 @@ Escribe un script en **Node.js** que:
 ## 💡 Requisitos técnicos
 
 - Usa `fs.promises` o `fs.readFileSync` para leer archivos.
-- Utiliza `path` y `fs.readdirsync` para recorrer el directorio. [ayuda](https://www.geeksforgeeks.org/node-js-fs-readdirsync-method/)
+- Utiliza `path` y `fs.readdirSync` para recorrer el directorio. [ayuda](https://www.geeksforgeeks.org/node-js-fs-readdirsync-method/)
 - Una forma sencilla de separar un string dado un carácter separador es el método [split](https://www.w3schools.com/jsref/jsref_split.asp)
 - El script debe ejecutarse desde la raíz del proyecto.
 
